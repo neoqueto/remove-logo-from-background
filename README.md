@@ -1,5 +1,7 @@
 # Remove Logo From Background Photoshop Action
 
+`Version 1.0`
+
 Super simple action for removing background logos or other graphics from product images. Requires an image with the logo by itself.
 
 #### Installation:
