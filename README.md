@@ -16,8 +16,8 @@ Super simple action for removing background logos or other graphics from product
 #### Prerequisites:
 
 1. Make sure to have at least two layers in the document:
-1.1 The topmost layer should contain the entire unwanted graphic
-1.2 The layer underneath should contain the unwanted graphic partially obstructed
+    1. The topmost layer should contain the entire unwanted graphic
+    2. The layer underneath should contain the unwanted graphic partially obstructed
 2. Background layer is optional, if used, it should be at the very bottom
 3. The topmost layer must be selected before running the action
 
