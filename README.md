@@ -6,11 +6,12 @@ Super simple action for removing background logos or other graphics from product
 
 #### Installation:
 
-1. Run Photoshop
-2. Open the Actions panel (default shortcut: Alt + F9)
-3. Open the Actions panel menu by clicking the hamburger icon
-4. Click on "Load Actions..."
-5. Locate "Remove-Logo-From-Background.atn"
+1. Download [Remove-Logo-From-Background.atn](https://github.com/neoqueto/remove-logo-from-background/raw/main/Remove-Logo-From-Background.atn "Remove-Logo-From-Background.atn")
+2. Run Photoshop
+3. Open the Actions panel (default shortcut: Alt + F9)
+4. Open the Actions panel menu by clicking the hamburger icon
+5. Click on "Load Actions..."
+6. Locate "Remove-Logo-From-Background.atn"
 
 #### Prerequisites:
 
