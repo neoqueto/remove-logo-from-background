@@ -24,3 +24,11 @@ Super simple action for removing background logos or other graphics from product
 #### Usage:
 
 Simply select the "Remove Logo From Background" action from the Actions panel and press "Play selection" (►)
+
+#### Limitations:
+
+1. Creates jagged edges (fixable)
+2. Untested on black backgrounds
+3. Can leave JPEG artifacts behind
+4. May not work well with semi-transparent obstructions (eg. plastic bottle, stained glass, thin fabric)
+5. Currently not a batch process that works across many files
